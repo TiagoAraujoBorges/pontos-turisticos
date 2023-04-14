@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: rgb(207, 213, 226);
+}
+body ul{
+    text-align:left;
+}
+body p {
+    color: rgb(230, 0, 0);
+}
+body img {
+    box-shadow: 5px 5px ;
+    color: rgb(84, 90, 92);
+}
+
+ header h1 {
+    color: blue;
+ }
+
+ section h2 {
+    color: blue;
+ }
+

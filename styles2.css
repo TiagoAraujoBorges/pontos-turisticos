@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-color: rgb(236, 219, 219);
+    justify-content: center;
+
+}
+body ul{
+    text-align:left;
+}
+body li{
+    text-align:center;
+    color: rgb(0, 0, 0);
+}
+body p {
+    color: rgb(230, 0, 0);
+}
+body img {
+    box-shadow: 5px 5px ;
+    color: rgb(11, 111, 145);
+    justify-content: center;
+}
+
+ header h1 {
+    color: blue;
+ }
+
+ section h2 {
+    color: blue;
+ }
+
